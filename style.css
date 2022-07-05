@@ -12,9 +12,13 @@ section{
 }
 .half-width{
     width: 50%;
+    margin: 10px;
+    padding: 60px ;
+   
 }
 .half-width img{
-    width: 80%;
+    width: 100%;
+    
 }
 .link-button{
     text-decoration: none;
@@ -25,14 +29,18 @@ section{
     border-radius: 20px;
 }
 .ex{
-   background-image: url(/images/Frame\ 59.jpg);
+
+   background-image: url(/images/Frame\ 59.jpg)
+
 }
 .moho{
-   width: 30%; 
+   width: 40%;
+  
 }
+
 .moho img{
     width: 60%;
-    padding-left: 60px;
+    padding-left: 40px;  
 }
 .link-button{
     text-decoration: none;
@@ -41,4 +49,20 @@ section{
     font-weight: 400;
     padding: 10px 20px ;
     border-radius: 20px;
+}
+
+.filex img{
+    width: 70%;
+    margin: 10px;
+    padding: 10px ;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 20px;
+}
+.nai{
+    width: 50%;
+    margin: 200px;
+    display: inline-flex;
+    border-radius: 10px;
+  box-shadow: 10px 10px 20px gray;
+  display: inline-flex;
 }
